@@ -4,7 +4,7 @@
  * root directory of this project.
  */
 
-import React from "react"
+import './globals.css'
 
 export default function RootLayout({
   children,
